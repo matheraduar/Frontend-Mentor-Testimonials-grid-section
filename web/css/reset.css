@@ -1,0 +1,33 @@
+body,
+h1,
+h2,
+p,
+span,
+div,
+ul,
+li,
+img,
+section,
+a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  vertical-align: baseline;
+}
+
+p,
+h1,
+h2 {
+  font-size: 1em;
+}
+
+li,
+a,
+img {
+  display: block;
+}
+
+ul,
+li {
+  list-style: none;
+}
